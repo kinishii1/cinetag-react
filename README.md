@@ -1,2 +1,1 @@
-# country-info-js
-country-info-js
+cinetag-react 
